@@ -37,11 +37,27 @@ se A[i] == k entao {
 
 **2 Instruções**
 
+## Linha 5:
+```http
+Devolve i
+```
+**Instrução: Retorno de valor**
+
+**1 Instrução**
+
 ## Linha 7: 
 ```http
 i = i + 17
 ```
 **Instrução: Inserção de valor**
+
+**1 Instrução**
+
+## Linha 9:
+```http
+Devolve i
+```
+**Instrução: Retorno de valor**
 
 **1 Instrução**
 
