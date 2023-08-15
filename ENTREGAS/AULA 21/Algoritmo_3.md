@@ -39,7 +39,7 @@ enquanto esq <= dir faca{
 ```
 **Instrução: Comparação de Valores**
 
-**2 Instruçôes!**
+**1 Instruçôes!**
 
 ## Linha 5:
 ```http
@@ -91,4 +91,4 @@ dir = meio - 1
 
 ## Total de Instruções:
 
-**Contém 14 instruções no total, mas, no pior caso (dir sendo maior que esq), será o produto de instruções dentro do loop com as de fora do loop, as 14 e o número de interações.**
+**Contém 13 instruções no total, mas, no pior caso (dir sendo maior que esq), será o produto de instruções dentro do loop com as de fora do loop, as 14 e o número de interações.**
