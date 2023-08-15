@@ -1,16 +1,16 @@
 # ALGORITMO 2
 
 ```http
-Function BuscaLinerarEmOrdem(K){
-    i = 1 
-    enquanto i <= n e K >= A[i] {
-        se A[i] == k entao {
-            devolve i
-        }
-        i = i + 17 
-    }
-    devolve -1
-}
+1 Function BuscaLinerarEmOrdem(K){
+2    i = 1 
+3    enquanto i <= n e K >= A[i] {
+4        se A[i] == k entao {
+5            devolve i
+6        }
+7        i = i + 17 
+8    }
+9    devolve -1
+10 }
 ```
 
 ## Linha 2:
