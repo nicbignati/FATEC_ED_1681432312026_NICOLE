@@ -49,9 +49,9 @@ Devolve i
 ```http
 i = i + 17
 ```
-**Instrução: Inserção de valor**
+**Instrução: Inserção e atribuição de valor**
 
-**1 Instrução**
+**2 Instrução**
 
 ## Linha 9:
 ```http
@@ -63,6 +63,6 @@ Devolve i
 
 ## Total de Instruções:
 
-**Contém 7 instruções no total, mas, no pior caso (i sendo maior que n), o algoritmo será executado aproximadamente n/17 vezes.**
+**Contém 9 instruções no total, mas, no pior caso (i sendo maior que n), o algoritmo será executado aproximadamente n/17 vezes.**
 
 
